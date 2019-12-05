@@ -14,4 +14,4 @@ klmnoprstuwxyz
 kolejna linia
 kolejna zmiana
 
-zmiana nr 12345
+zmiana nr 54321
