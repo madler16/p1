@@ -1,3 +1,4 @@
+i jeszcze kolejna zmiana
 a
 b
 c
@@ -11,4 +12,3 @@ j
 klmnoprstuwxyz
 1234567890
 kolejna linia
-i jeszcze kolejna zmiana
